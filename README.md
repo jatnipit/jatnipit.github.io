@@ -10,4 +10,4 @@
 - Date of Birth : 6 February 2004
 
 ## Information System security
-- Week 1 : [Policy]​(/policy)​
+- Week 1 : [Policy](https://jatnipit.github.io/policy)
