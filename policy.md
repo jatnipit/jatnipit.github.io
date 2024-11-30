@@ -28,4 +28,4 @@
 
 ## Partner
 
-[Jatnipit's website](https://jatnipit.github.io/policy.md)
+[Prxsss's website](https://prxsss.github.io/policy)
