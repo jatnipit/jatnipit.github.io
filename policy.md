@@ -1,12 +1,12 @@
 # Policy
 
-## CISSP Glossary
+## [CISSP Glossary - Student Guide](https://www.isc2.org/certifications/cissp/cissp-student-glossary)
 
 - **Definition**: Documents published and promulgated by senior management dictating and describing the organization’s strategic goals.
 - **ChatGPT**: เอกสารที่เผยแพร่และประกาศโดยผู้บริหารระดับสูง ซึ่งกำหนดและอธิบายเป้าหมายเชิงกลยุทธ์ขององค์กร​
 - **Gemini**: เอกสารที่เผยแพร่และประกาศโดยผู้บริหารระดับสูง กำหนดและอธิบายเป้าหมายเชิงกลยุทธ์ขององค์กร​
 
-## NIST Glossary
+## [NIST Glossary](https://csrc.nist.gov/glossary)
 
 - **Definition**: Statements, rules, or assertions that specify the correct or expected behavior of an entity. For example, an authorization policy might specify the correct access control rules for a software component.
 - **ChatGPT**: คำกล่าว, กฎเกณฑ์ หรือข้อกำหนดที่ระบุพฤติกรรมที่ถูกต้องหรือคาดหวังของเอนทิตี  
