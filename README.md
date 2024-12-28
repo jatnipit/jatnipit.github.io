@@ -9,5 +9,6 @@
 - Nickname: Jay
 
 ## Information System Security
-- Security Vocabulary : [Policy](https://jatnipit.github.io/policy)
-- Christmas E-Card : [Merry Christmas and a Happy New Year.](https://jatnipit.github.io/Christmas-and-New-Year-2025)
+- Security Vocabulary: [Policy](https://jatnipit.github.io/policy)
+- Christmas E-Card: [Merry Christmas and a Happy New Year.](https://jatnipit.github.io/Christmas-and-New-Year-2025)
+- Data Quality Topic: [Data Granularity](https://jatnipit.github.io/data-granularity)
