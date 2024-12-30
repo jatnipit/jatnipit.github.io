@@ -9,13 +9,11 @@
 
 ## Meaning by ChatGPT
 
-  - Data granularity is a critical dimension of data quality that influences how effectively data can be used, analyzed, and integrated. The right level of granularity depends on the intended application and business needs.
-  - เป็นมิติที่สำคัญของคุณภาพข้อมูล ซึ่งส่งผลต่อความสามารถในการใช้งาน การวิเคราะห์ และการผสานรวมข้อมูล ระดับความละเอียดของข้อมูลที่เหมาะสมขึ้นอยู่กับวัตถุประสงค์ในการใช้งานและความต้องการทางธุรกิจ
-
+  - ความละเอียดของข้อมูลคือระดับของรายละเอียดที่กำหนดไว้ในโครงสร้างข้อมูล ตัวอย่างเช่น ในข้อมูลเวลา อาจเก็บข้อมูลเป็นรายปีหรือรายชั่วโมง ส่วนในธุรกรรม อาจแยกข้อมูลตามคำสั่งซื้อหรือรายการสินค้า และในข้อมูลชื่อ อาจรวมชื่อเต็มไว้ในช่องเดียวหรือแยกออกเป็นชื่อแต่ละส่วน
+    
 ## Meaning by Gemini
 
-  - Data granularity is the level of detail in data. Higher granularity means more specific information, while lower granularity means more summarized information. Choosing the right level of granularity is important for accurate analysis, storage, and processing.
-  - "ความละเอียดของข้อมูล" หมายถึง ระดับรายละเอียดของข้อมูล ความละเอียดสูงหมายถึงข้อมูลที่เฉพาะเจาะจงมากขึ้น ในขณะที่ความละเอียดต่ำหมายถึงข้อมูลที่สรุปโดยรวมมากขึ้น การเลือกระดับความละเอียดที่เหมาะสมมีความสำคัญต่อความถูกต้องของการวิเคราะห์ การจัดเก็บ และการประมวลผลข้อมูล
+  - คือการวัดว่าข้อมูลนั้นละเอียดแค่ไหน หรือกล่าวอีกนัยหนึ่งคือ ข้อมูลนั้นถูกแบ่งย่อยออกเป็นหน่วยย่อยๆ ได้มากน้อยเพียงใด ยิ่งข้อมูลมีความละเอียดมากเท่าไหร่ เราก็จะยิ่งสามารถวิเคราะห์ข้อมูลได้ลึกซึ้งและเจาะจงมากขึ้นเท่านั้น
 
 ## Summary
 
