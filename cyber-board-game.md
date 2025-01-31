@@ -27,10 +27,10 @@
 
 ### ภาพกิจกรรม
 
-![](/images/BoardGame2.jpg)
-![](/images/BoardGame3.jpg)
+![](/images/BoardGame2.png)
+![](/images/BoardGame3.png)
 ![](/images/BoardGame1.jpg)
 
 ### วิดีโอกิจกรรม
 
-[![](/images/BoardGame4.jpg)](https://youtu.be/H051c8pCy3s?si=zcyErlkyVhsEkhe9)
+[![](/images/BoardGame4.png)](https://youtu.be/H051c8pCy3s?si=zcyErlkyVhsEkhe9)
