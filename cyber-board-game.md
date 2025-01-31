@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/85172f7f-5470-4298-9468-3fb5f23b1c75)# Cyber Board Game By Thongtum
+# Cyber Board Game By Thongtum
 
 ## บรรยากาศภายในการทำกิจกรรมการเล่นบอร์ดเกมของสำนักงานคณะกรรมการการรักษาความมั่นคงปลอดภัยไซเบอร์แห่งชาติ(สกมช. หรือ NCSA)
 
@@ -34,3 +34,18 @@
 ### วิดีโอกิจกรรม
 
 [![](/images/BoardGame4.png)](https://youtu.be/H051c8pCy3s?si=zcyErlkyVhsEkhe9)
+
+### ปล.
+- ทางกลุ่มผู้จัดทำได้ขออนุญาตเพื่อนๆ ในการถ่ายรูป ถ่ายวิดีโอและการเผยแพร่ลงสื่อ Social Media เป็นที่เรียบร้อยแล้ว
+
+### สมาชิกภายในกลุ่ม
+
+- [6530200126 ณัฐฐภัทร กลิ่นขจร](https://nantta.github.io/board-game)
+
+- [6530200398 รติพงษ์ วันวิเสส](https://github.com/bxnkz/board-game)
+
+- [6530200592 เจตนิพิฐ คงเกษม](https://jatnipit.github.io/cyber-board-game)
+
+- [6530200720 พฤษกรณ์ สายแวว](https://zozimboii.github.io/board-game)
+
+- [6530200738 พันธรัฐ ทะเรรัมย์](https://phantharatt.github.io/cyber-board-game)
