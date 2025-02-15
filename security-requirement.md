@@ -1,5 +1,7 @@
 # Security Requirements
 
+-----------------
+
 ## 8.2.2 Client-side Data Protection
 
 - Verify that data stored in browser storage (such as localStorage, sessionStorage, IndexedDB, or cookies) does not contain sensitive data.
